@@ -1,0 +1,3 @@
+[submodule "xcode/Vencord-Safari-Extension"]
+	path = xcode/Vencord-Safari-Extension
+	url = https://github.com/khcrysalis/Vencord-Safari-Extension
